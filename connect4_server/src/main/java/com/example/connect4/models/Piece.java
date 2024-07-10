@@ -1,4 +1,6 @@
 package com.example.connect4.models;
 
-public class Piece {
+public enum Piece {
+    PLAYER1,
+    PLAYER2
 }
